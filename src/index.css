@@ -10,9 +10,12 @@
 @tailwind utilities;
 
 #root {
+  padding: 20px;
   width: 100vw;
+  max-width: 1920px;
   height: 100vh;
   display: flex;
   background-color: #f6f8fa;
   box-sizing: border-box;
+
 }
